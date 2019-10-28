@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import com.example.practical12homework.R
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
